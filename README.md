@@ -20,31 +20,13 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Links Úteis:
-
-[Sintaxe_Básica_Marckdown](https://www.markdownguide.org/basic-syntax/)
-
-[Lista de Emoticons](https://www.emojiall.com/pt/all-cate)
-
-
-
-
+> ## Links Úteis:
+>
+> ## [Sintaxe_Básica_Marckdown](https://www.markdownguide.org/basic-syntax/)
+>
+> ## [Lista de Emoticons](https://www.emojiall.com/pt/all-cate)
+>
+> ## [+ Comandos do Git](https://www.hostinger.com.br/tutoriais/comandos-basicos-de-git?ppc_campaign=google_performance_max&gclid=CjwKCAiA1uKMBhAGEiwAxzvX90ttlc9P7lgUIUAgI3Om-Bl0ulrY4XtrZ4rmoYtaQ3TcLirVDnlrmhoCW54QAvD_BwE)
 
 
 

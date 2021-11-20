@@ -4,22 +4,22 @@
 
   O comando ***git status*** exibe a lista de arquivos alterados juntamente com os arquivos que ainda não foram adicionados ou confirmados.
 
-- #### git cd "nome pasta"
+- #### cd "nome pasta"
 
-O comando ***git cd*** navega através das pastas.
+O comando ***cd*** navega através das pastas.
 
-- #### git cd ..
+- #### cd ..
 
-O Comando ***git cd ..*** volta a pasta anterior.
+O Comando ***cd ..*** volta a pasta anterior.
 
-- #### git dir
+- #### dir
 
-O comando ***git dir*** lista as pasta de diretórios.
+O comando ***dir*** lista as pasta de diretórios.
 
-- #### git clear
+- #### clear
 
-O comando ***git clear*** limpa a tela de comando (não apaga).
+O comando ***clear*** limpa a tela de comando (não apaga).
 
-- #### git del
+- #### del
 
-O comando ***git del*** deleta os arquivos.
+O comando ***del*** deleta os arquivos.
